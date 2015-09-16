@@ -1,0 +1,795 @@
+fileFormatVersion: 2
+guid: 481a808dc1685ae4285d664537355411
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Pirates03_0
+    21300002: Pirates03_1
+    21300004: Pirates03_2
+    21300006: Pirates03_3
+    21300008: Pirates03_4
+    21300010: Pirates03_5
+    21300012: Pirates03_6
+    21300014: Pirates03_7
+    21300016: Pirates03_8
+    21300018: Pirates03_9
+    21300020: Pirates03_10
+    21300022: Pirates03_11
+    21300024: Pirates03_12
+    21300026: Pirates03_13
+    21300028: Pirates03_14
+    21300030: Pirates03_15
+    21300032: Pirates03_16
+    21300034: Pirates03_17
+    21300036: Pirates03_18
+    21300038: Pirates03_19
+    21300040: Pirates03_20
+    21300042: Pirates03_21
+    21300044: Pirates03_22
+    21300046: Pirates03_23
+    21300048: Pirates03_24
+    21300050: Pirates03_25
+    21300052: Pirates03_26
+    21300054: Pirates03_27
+    21300056: Pirates03_28
+    21300058: Pirates03_29
+    21300060: Pirates03_30
+    21300062: Pirates03_31
+    21300064: Pirates03_32
+    21300066: Pirates03_33
+    21300068: Pirates03_34
+    21300070: Pirates03_35
+    21300072: Pirates03_36
+    21300074: Pirates03_37
+    21300076: Pirates03_38
+    21300078: Pirates03_39
+    21300080: Pirates03_40
+    21300082: Pirates03_41
+    21300084: Pirates03_42
+    21300086: Pirates03_43
+    21300088: Pirates03_44
+    21300090: Pirates03_45
+    21300092: Pirates03_46
+    21300094: Pirates03_47
+    21300096: Pirates03_48
+    21300098: Pirates03_49
+    21300100: Pirates03_50
+    21300102: Pirates03_51
+    21300104: Pirates03_52
+    21300106: Pirates03_53
+    21300108: Pirates03_54
+    21300110: Pirates03_55
+    21300112: Pirates03_56
+    21300114: Pirates03_57
+    21300116: Pirates03_58
+    21300118: Pirates03_59
+    21300120: Pirates03_60
+    21300122: Pirates03_61
+    21300124: Pirates03_62
+    21300126: Pirates03_63
+    21300128: Pirates03_64
+    21300130: Pirates03_65
+    21300132: Pirates03_66
+    21300134: Pirates03_67
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Pirates03_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 224
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 27
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 224
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 224
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 27
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 224
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 224
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 0
+        width: 27
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_8
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 224
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_9
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 224
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_10
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 0
+        width: 27
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_11
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 224
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 192
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_13
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 192
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_14
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 192
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_15
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 192
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_16
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 192
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_17
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 192
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_18
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 192
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_19
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 192
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 160
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_21
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 160
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_22
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 160
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_23
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 160
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_24
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 160
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_25
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 160
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_26
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 160
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_27
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 160
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 128
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_29
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 128
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_30
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 128
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_31
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 128
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_32
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 128
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_33
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 128
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_34
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 128
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_35
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 128
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_36
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 96
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_37
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 96
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_38
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 96
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_39
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 96
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_40
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 96
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_41
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 96
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_42
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 96
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_43
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 96
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_44
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 64
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_45
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 64
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_46
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 64
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_47
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 64
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_48
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 64
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_49
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 64
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_50
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 64
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_51
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 64
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_52
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 32
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_53
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 32
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_54
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 32
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_55
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 32
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_56
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 32
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_57
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 32
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_58
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 32
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_59
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 32
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_60
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_61
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_62
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_63
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_64
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_65
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 0
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_66
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 0
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pirates03_67
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 0
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

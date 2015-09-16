@@ -1,0 +1,586 @@
+fileFormatVersion: 2
+guid: d5b50120e59cacf4e8e701dcf40cc001
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: piraterecolors_0
+    21300002: piraterecolors_1
+    21300004: piraterecolors_2
+    21300006: piraterecolors_3
+    21300008: piraterecolors_4
+    21300010: piraterecolors_5
+    21300012: piraterecolors_6
+    21300014: piraterecolors_7
+    21300016: piraterecolors_8
+    21300018: piraterecolors_9
+    21300020: piraterecolors_10
+    21300022: piraterecolors_11
+    21300024: piraterecolors_12
+    21300026: piraterecolors_13
+    21300028: piraterecolors_14
+    21300030: piraterecolors_15
+    21300032: piraterecolors_16
+    21300034: piraterecolors_17
+    21300036: piraterecolors_18
+    21300038: piraterecolors_19
+    21300040: piraterecolors_20
+    21300042: piraterecolors_21
+    21300044: piraterecolors_22
+    21300046: piraterecolors_23
+    21300048: piraterecolors_24
+    21300050: piraterecolors_25
+    21300052: piraterecolors_26
+    21300054: piraterecolors_27
+    21300056: piraterecolors_28
+    21300058: piraterecolors_29
+    21300060: piraterecolors_30
+    21300062: piraterecolors_31
+    21300064: piraterecolors_32
+    21300066: piraterecolors_33
+    21300068: piraterecolors_34
+    21300070: piraterecolors_35
+    21300072: piraterecolors_36
+    21300074: piraterecolors_37
+    21300076: piraterecolors_38
+    21300078: piraterecolors_39
+    21300080: piraterecolors_40
+    21300082: piraterecolors_41
+    21300084: piraterecolors_42
+    21300086: piraterecolors_43
+    21300088: piraterecolors_44
+    21300090: piraterecolors_45
+    21300092: piraterecolors_46
+    21300094: piraterecolors_47
+    21300096: piraterecolors_48
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: piraterecolors_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piraterecolors_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 27
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piraterecolors_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 224
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piraterecolors_3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 128
+        width: 27
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piraterecolors_4
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 224
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piraterecolors_5
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 128
+        width: 27
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piraterecolors_6
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 224
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piraterecolors_7
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 0
+        width: 29
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piraterecolors_8
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 224
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piraterecolors_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 192
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piraterecolors_10
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 192
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piraterecolors_11
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 192
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piraterecolors_12
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 192
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piraterecolors_13
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 192
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piraterecolors_14
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 192
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piraterecolors_15
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 192
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piraterecolors_16
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 192
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piraterecolors_17
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 160
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piraterecolors_18
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 160
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piraterecolors_19
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 160
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piraterecolors_20
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 160
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piraterecolors_21
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 160
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piraterecolors_22
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 160
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piraterecolors_23
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 160
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piraterecolors_24
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 160
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piraterecolors_25
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 128
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piraterecolors_26
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 128
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piraterecolors_27
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 128
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piraterecolors_28
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 128
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piraterecolors_29
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 128
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piraterecolors_30
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 128
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piraterecolors_31
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 128
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piraterecolors_32
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 128
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piraterecolors_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piraterecolors_34
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 96
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piraterecolors_35
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 96
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piraterecolors_36
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 96
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piraterecolors_37
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 64
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piraterecolors_38
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 64
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piraterecolors_39
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 64
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piraterecolors_40
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 64
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piraterecolors_41
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 32
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piraterecolors_42
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 32
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piraterecolors_43
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 32
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piraterecolors_44
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 32
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piraterecolors_45
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piraterecolors_46
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piraterecolors_47
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 0
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: piraterecolors_48
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
